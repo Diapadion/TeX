@@ -1,0 +1,107 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Herrnstein%
+}{%
+Herrnstein%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+herrnstein1990}
+\APACinsertmetastar {%
+herrnstein1990}%
+\begin{APACrefauthors}%
+Herrnstein, R\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1990}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Levels of stimulus control: A functional approach}
+  {Levels of stimulus control: A functional approach}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognition}{37}{1}{133--166}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Katz%
+, Wright%
+\BCBL {}\ \BBA {} Bodily%
+}{%
+Katz%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+katz2007}
+\APACinsertmetastar {%
+katz2007}%
+\begin{APACrefauthors}%
+Katz, J\BPBI S.%
+, Wright, A\BPBI A.%
+\BCBL {}\ \BBA {} Bodily, K\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Issues in the comparative cognition of abstract-concept
+  learning} {Issues in the comparative cognition of abstract-concept
+  learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Comparative cognition \& behavior reviews}{2}{}{79}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Thurstone%
+}{%
+Thurstone%
+}{%
+{\protect \APACyear {1919}}%
+}]{%
+thurstone1919}
+\APACinsertmetastar {%
+thurstone1919}%
+\begin{APACrefauthors}%
+Thurstone, L\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1919}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The learning curve equation} {The learning curve
+  equation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Monographs: General and
+  Applied}{26}{3}{i--51}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vonk%
+\ \BBA {} MacDonald%
+}{%
+Vonk%
+\ \BBA {} MacDonald%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+vonk2002natural}
+\APACinsertmetastar {%
+vonk2002natural}%
+\begin{APACrefauthors}%
+Vonk, J.%
+\BCBT {}\ \BBA {} MacDonald, S\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Natural concepts in a juvenile gorilla (\emph{Gorilla
+  gorilla gorilla}) at three levels of abstraction} {Natural concepts in a
+  juvenile gorilla (\emph{Gorilla gorilla gorilla}) at three levels of
+  abstraction}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the experimental analysis of
+  behavior}{78}{3}{315--332}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

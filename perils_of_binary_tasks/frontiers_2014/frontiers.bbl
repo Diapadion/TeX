@@ -1,0 +1,97 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+
+\bibitem[{\textbf{Basile and Hampton}(2013)}]{Basi2013}
+Basile, B.~M. and Hampton, R.~R. (2013), Monkeys show recognition without
+  priming in a classification task, \emph{Behavioural Processes}, 93, q,
+  50--61, \doi{10.1016/j.beproc.2012.08.005}
+
+\bibitem[{\textbf{Bhatt et~al.}(1988)\textbf{Bhatt, Wasserman, Reynolds, and
+  Knauss}}]{Bhat1988}
+Bhatt, R.~S., Wasserman, E.~A., Reynolds, W.~F., and Knauss, K.~S. (1988),
+  Conceptual behavior in pigeons: Categorization of both familiar and novel
+  examples from four classes of natural and artificial stimuli, \emph{Journal
+  of Experimental Psychology: Animal Behavior Processes}, 14, 3, 219--234,
+  \doi{10.1037/0097-7403.14.3.219}
+
+\bibitem[{\textbf{{Fei-Fei} et~al.}(2007)\textbf{{Fei-Fei}, Fergus, and
+  Perona}}]{Fei2007}
+{Fei-Fei}, L., Fergus, R., and Perona, P. (2007), Learning generative visual
+  models from few training examples: An incremental bayesian approach tested on
+  101 object categories, \emph{Computer Vision and Image Understanding}, 106,
+  1, 59--70, \doi{10.1016/j.cviu.2005.09.012}
+
+\bibitem[{\textbf{Freedman et~al.}(2001)\textbf{Freedman, Riesenhuber, Poggio,
+  and Miller}}]{Free2001}
+Freedman, D.~J., Riesenhuber, M., Poggio, T., and Miller, E.~K. (2001),
+  Categorical representation of visual stimuli in the primate prefrontal
+  cortex, \emph{Science}, 291, 5502, 312--316
+
+\bibitem[{\textbf{Herrnstein et~al.}(1976)\textbf{Herrnstein, , Loveland, and
+  Cable}}]{Herr1976}
+Herrnstein, R.~J., , Loveland, D.~H., and Cable, C. (1976), Natural concepts in
+  pigeons, \emph{Journal of Experimental Psychology: Animal Behavior
+  Processes}, 2, 4, 285
+
+\bibitem[{\textbf{Katz et~al.}(2007)\textbf{Katz, Wright, and
+  Bodily}}]{Katz2007}
+Katz, J.~S., Wright, A.~A., and Bodily, K.~D. (2007), Issues in the comparative
+  cognition of abstract-concept learning, \emph{Comparative Cognition \&
+  Behavior Reviews}, 2, 79--92
+
+\bibitem[{\textbf{Lazareva et~al.}(2004)\textbf{Lazareva, Freiburger, and
+  Wasserman}}]{Laza2004}
+Lazareva, O.~F., Freiburger, K.~L., and Wasserman, E.~A. (2004), Pigeons
+  concurrently categorize photographs at both basic and superordinate levels,
+  \emph{Psychonomic Bulletin \& Review}, 11, 6, 1111--1117
+
+\bibitem[{\textbf{Marsh and MacDonald}(2008)}]{Mars2008}
+Marsh, H.~L. and MacDonald, S.~E. (2008), The use of perceptual features in
+  categorization by orangutans (pongo abelli), \emph{Animal Cognition}, 11, 4,
+  569--585
+
+\bibitem[{\textbf{O'Hara and Draper}(2011)}]{OHara2011}
+O'Hara, S. and Draper, B.~A. (2011), Introduction to the bag of features
+  paradigm for image classification and retrieval, \emph{arXiv Preprint},
+  arXiv, 1101.3354
+
+\bibitem[{\textbf{Sigala}(2009)}]{Siga2009}
+Sigala, N. (2009), Natural images: A lingua franca for primates?, \emph{The
+  Open Neuroscience Journal}, 3, 1, 48--51
+
+\bibitem[{\textbf{Spalding and Ross}(2000)}]{Spal2000}
+Spalding, T.~L. and Ross, B.~H. (2000), Concept learning and feature
+  interpretation, \emph{Memory \& Cognition}, 28, 3, 439--451
+
+\bibitem[{\textbf{Terrace}(2005)}]{Terr2005}
+Terrace, H.~S. (2005), The simultaneous chain: A new approach to serial
+  learning, \emph{Trends in Cognitive Sciences}, 9, 4, 202--210,
+  \doi{10.1016/j.tics.2005.02.003}
+
+\bibitem[{\textbf{Vonk}(2013)}]{Vonk2013}
+Vonk, J. (2013), Matching based on biological categories in orangutans (pongo
+  abelii) and a gorilla (gorilla gorilla gorilla), \emph{PeerJ}, 1, e158,
+  \doi{10.7717/peerj.158}
+
+\bibitem[{\textbf{Washburn and Gulledge}(1995)}]{Wash1995}
+Washburn, D.~A. and Gulledge, J.~P. (1995), Game-like tasks for comparative
+  research: Leveling the playing field, \emph{Behavior Research Methods,
+  Instruments, and Computers}, 27, 2, 235--238
+
+\bibitem[{\textbf{Wright and Lickteig}(2010)}]{Wrig2010}
+Wright, A.~A. and Lickteig, M.~T. (2010), What is learned when concept learning
+  fails: €”a theory of restricted-domain relational learning, \emph{Learning \&
+  Motivation}, 41, 4, 273--286
+
+\bibitem[{\textbf{Zentall et~al.}(2014)\textbf{Zentall, Wasserman, and
+  Urcuioli}}]{Zent2014}
+Zentall, T.~R., Wasserman, E.~A., and Urcuioli, P.~J. (2014), Associative
+  concept learning in animals, \emph{Journal of the Experimental Analysis of
+  Behavior}, 101, 1, 130--151
+
+\end{thebibliography}
